@@ -1,4 +1,3 @@
-# data-structures-and-algorithms
-A summary of my journey towards mastering ds&amp;a
+# Data Structures and Algorithms
 
-This is a way for me to keep track of my leetcode algorithms and document my improvement over time.
+This is a way for me to keep track of my leetcode solutions and document my improvement over time.
