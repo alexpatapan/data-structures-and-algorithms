@@ -4,8 +4,7 @@ class Solution {
     int[][] directions = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
     
     public int numIslands(char[][] grid) {
-        // when you find an island -> turn island into water than continue from 
-        // where you were
+        // when you find an island -> turn island into water then continue from where you were
         int count = 0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[i].length; j++) {
